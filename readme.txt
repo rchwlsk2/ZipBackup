@@ -6,7 +6,7 @@
 
 1.) What is it? 
 
-This program is designed to take a given directory, compress it into a .zip file, and upload the compressed file to a Dropbox account for backup purposes.
+This script is designed to take a given directory, compress it into a .zip file, and upload the compressed file to a Dropbox account for backup purposes.
 
 2. ) How do I set it up?
 
